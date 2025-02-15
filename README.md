@@ -1,5 +1,7 @@
 # rust-microservice
 
+### What the app looks like:
+
 [![Build binary release](https://github.com/blueskycircle/rust-microservice/actions/workflows/release.yml/badge.svg)](https://github.com/blueskycircle/rust-microservice/actions/workflows/release.yml)
 
 ![image](https://github.com/user-attachments/assets/dfb3ed12-46d5-4e6b-9044-dcc36f561dab)
