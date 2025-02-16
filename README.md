@@ -1,4 +1,5 @@
 # rust-microservice
+A microservice in Rust.
 
 ### What the app looks like:
 
